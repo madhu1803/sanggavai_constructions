@@ -875,7 +875,9 @@ body.page #main-content { padding-top: 0; padding-bottom: 0; }
 
 /* Footer
 -------------------------------------------------------------- */
-#footer { background: url('assets/img/page/bg-footer.jpg') no-repeat center center; background-size: cover;  position: relative; z-index: 1; padding: 79px 0px 72px 0px; }
+#footer { background: url('assets/img/page/bg-footer.jpg') no-repeat center center; background-size: cover;  position: relative; z-index: 1; padding: 10px 0px 10px 0px;
+margin-top: 10px !important;
+}
 
 #footer-widgets .widget .widget-title { color: #fff; font-size: 14px; margin-bottom: 24px; letter-spacing: 1.3px; margin-top: 2px; }
 #footer-widgets .widget .widget-title span { padding: 0px 0px 8px 0px; }
@@ -1111,4 +1113,9 @@ body.page #main-content { padding-top: 0; padding-bottom: 0; }
 .text-shadow{
   color: white !important;
   text-shadow: 1px 1px 10px black;
+}
+
+.footer-icon{
+  color: #999999 !important;
+  font-size: 20px !important;
 }
