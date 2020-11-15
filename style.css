@@ -875,7 +875,7 @@ body.page #main-content { padding-top: 0; padding-bottom: 0; }
 
 /* Footer
 -------------------------------------------------------------- */
-#footer { background: url('assets/img/page/bg-footer.jpg') no-repeat center center; background-size: cover;  position: relative; z-index: 1; padding: 10px 0px 10px 0px;
+#footer { background: url('assets/img/page/bg-footer.jpg') no-repeat center center; background-size: cover;  position: relative; z-index: 1; padding: 20px 0px 20px 0px;
 margin-top: 10px !important;
 }
 
