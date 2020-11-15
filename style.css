@@ -1110,6 +1110,6 @@ body.page #main-content { padding-top: 0; padding-bottom: 0; }
 
 .text-shadow{
   color: white !important;
-  text-shadow: 1px 1px black;
+  text-shadow: 1px 1px 10px black;
   /* background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)); */
 }
